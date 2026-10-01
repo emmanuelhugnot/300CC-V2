@@ -40,7 +40,7 @@ This project is built around *sharing knowledge, troubleshooting, and improving 
 ## Author & Contact
 
 Designed and developed by **Emmanuel Hugnot**. 
-Contribur
+
 
 *  **Website:** [emmanuelhugnot.com](https://emmanuelhugnot.com)
 *  **Instagram:** [@emmanuelhugnot](https://www.instagram.com/emmanuelhugnot/)
