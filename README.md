@@ -23,9 +23,9 @@ The **V2 design** was refined in *September 2026* during a collaborative worksho
 
 ## Getting Started
 
-1. **Check the BOM:** Review the `Bill_of_Materials/` folder for the complete list of required hardware, fasteners, and electronics.
-2. **Print the Parts:** Download the `.STL` files from `3D_Models/` and slice them using recommended settings in the documentation.
-3. **Assemble & Mount:** Follow the step-by-step guide in `Documentation/Assembly_Guide.md` to adapt the 300CC V2 to your printer frame.
+1. **Check the BOM:** for the complete list of required hardware, fasteners, and electronics.
+2. **Print the Parts:** Download the `.STL` files from `3D_FILES/` and slice them using recommended settings in the documentation.
+3. **Assemble & Mount:** Follow the step-by-step guide in `300CCV2_Assembly_Guide.pdf` to build the 300CC V2.
 
 ---
 
