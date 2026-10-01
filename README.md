@@ -37,7 +37,15 @@ This project is built around *sharing knowledge, troubleshooting, and improving 
 * **Contributions:** Feel free to open an issue or submit a pull request if you have improvements or modifications to share.
 
 ---
+## Author & Contact
 
+Designed and developed by **Emmanuel Hugnot**. 
+Contribur
+
+*  **Website:** [emmanuelhugnot.com](https://emmanuelhugnot.com)
+*  **Instagram:** [@emmanuelhugnot](https://www.instagram.com/emmanuelhugnot/)
+
+  
 ## License
 
 This project is published under the **Creative Commons Attribution-NonCommercial (CC BY-NC)** license.
