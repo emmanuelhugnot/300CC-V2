@@ -1,12 +1,10 @@
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="50%" align="center">
       <img src="https://github.com/user-attachments/assets/346ef725-58e5-4a7d-a511-2e254710f653" width="100%" alt="P1520646">
-      <br/><sub>Légende photo 1</sub>
     </td>
     <td width="50%" align="center">
       <img src="https://github.com/user-attachments/assets/36a3eb7e-f40b-4d16-9b6a-171f9c49b890" width="100%" alt="P1520563">
-      <br/><sub>Légende photo 2</sub>
     </td>
   </tr>
 </table>
