@@ -1,3 +1,4 @@
+<img width="2424" height="3232" alt="P1520563" src="https://github.com/user-attachments/assets/36a3eb7e-f40b-4d16-9b6a-171f9c49b890" />
 # 300CC V2 – Open-Source Paste Extruder (LDM)
 
 The **300CC V2** is an open-source extruder designed by *Emmanuel Hugnot* to make paste 3D printing practical, reliable, and accessible. Built as the evolution of the original *300CC* project, it allows anyone to experiment with materials like **clay, earth, or bio-composites** without needing expensive hardware.
