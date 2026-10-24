@@ -1,4 +1,4 @@
-<img width="100" alt="P1520563" src="https://github.com/user-attachments/assets/36a3eb7e-f40b-4d16-9b6a-171f9c49b890" />
+<img width="500" alt="P1520563" src="https://github.com/user-attachments/assets/36a3eb7e-f40b-4d16-9b6a-171f9c49b890" />
 
 # 300CC V2 – Open-Source Paste Extruder (LDM)
 
